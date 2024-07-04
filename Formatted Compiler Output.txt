@@ -1,0 +1,7 @@
+C:\Users\MMC\Desktop\PF Project\HotelBuddy.c	In function 'customer':
+235	20	C:\Users\MMC\Desktop\PF Project\HotelBuddy.c	[Warning] overflow in implicit constant conversion [-Woverflow]
+289	16	C:\Users\MMC\Desktop\PF Project\HotelBuddy.c	[Warning] overflow in implicit constant conversion [-Woverflow]
+C:\Users\MMC\Desktop\PF Project\HotelBuddy.c	In function 'admin':
+437	15	C:\Users\MMC\Desktop\PF Project\HotelBuddy.c	[Warning] overflow in implicit constant conversion [-Woverflow]
+C:\Users\MMC\Desktop\PF Project\HotelBuddy.c	In function 'hotel_represent':
+627	15	C:\Users\MMC\Desktop\PF Project\HotelBuddy.c	[Warning] overflow in implicit constant conversion [-Woverflow]

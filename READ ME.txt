@@ -1,0 +1,60 @@
+INFORMATION OF ACCOUNTS TO GUIDE THROUGH THIS PROGRAM
+--------------------------------------------------------------------------------
+	YOU CAN ADD AS MUCH HOTEL,CUSTOMER AND ADMIN RECORDS AS YOU WANT THROUGH THE PROGRAM.BELOW RECORDS ARE ADDED TO GUIDE THORUGH PROGRAM.
+
+(*ID,PASSWORD AND PROMO CODES ARE CASE-SENSITIVE)
+HOTEL ACCOUNTS:
+1)ID: h_shereton12.hotelbuddy				
+  PASSWORD: pass1
+  CITY: Karachi
+  AREA: Defence
+  PROMO CODE: pak10
+2)ID: h_marriott10.hotelbuddy
+  PASSWORD: pass2
+  CITY: Lahore
+  AREA: Gulberg
+  PROMO CODE: 15off
+3)ID: h_pc123.hotelbuddy
+  PASSWORD: pass3
+  CITY: Islamabad
+  AREA: Blue Area
+  PROMO CODE: 30slash
+4)ID: h_redfox.hotelbuddy
+  PASSWORD: pass4
+  CITY: Hyderabad
+  AREA: Liaquat Street
+  PROMO CODE: 10off
+5)ID: h_serena.hotelbuddy
+  PASSWORD: pass5
+  CITY: Quetta
+  AREA: Jinnah Road
+  PROMO CODE: quetta20
+6)ID: h_zifan.hotelbuddy
+  PASSWORD: pass6
+  CITY: karachi
+  AREA: Saddar
+  PROMO CODE: karachi30
+7)ID: h_crown123.hotelbuddy
+  PASSWORD: pass8
+  CITY: Islamabad
+  AREA: Naan Street
+  PROMO CODE: lahore20
+8)ID: h_asad123.hotelbuddy
+  PASSWORD: pass9
+  CITY: lahore
+  AREA: Mall Road
+  PROMO CODE: lahore20
+9)ID: h_fort123.hotelbuddy
+  PASSWORD: pass10
+  CITY: Peshawar
+  AREA: Frontier town
+  PROMO CODE: 30off
+-----------------------------------------------------------------
+CUSTOMER INFORMATION
+Yasir Raza
+1)ID: c_bomber.hotelbuddy
+  PASSWORD: bomber
+-----------------------------------------------------
+ADMIN INFORMATION
+1)ID: a_murtaza.hotelbuddy
+  PASSWORD: murti123
